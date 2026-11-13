@@ -129,8 +129,4 @@ Some improvements I may explore in future versions:
 
 Completed initial version. The core processing, validation, duplicate detection, and reporting features have been implemented and tested with sample PDF invoices.
 
----
 
-**Author:** Your Name
-
-**GitHub:** https://github.com/YOUR-USERNAME
