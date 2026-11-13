@@ -4,6 +4,9 @@ A Python project that automates the basic process of reading invoice PDFs, extra
 
 I built this project to reduce repetitive manual work involved in processing invoices and organizing invoice records.
 
+
+![image alt](https://github.com/chmuzammil3/invoice-automation/blob/c36ff9e4732ba3a203f861022a2a9aa321aea665/invoice1.png)
+![image alt](https://github.com/chmuzammil3/invoice-automation/blob/c36ff9e4732ba3a203f861022a2a9aa321aea665/invoice2.png)
 ## What does it do?
 
 The program scans PDF invoices from an input folder and extracts the following information:
@@ -16,6 +19,8 @@ The program scans PDF invoices from an input folder and extracts the following i
 After extracting the information, it checks whether required fields are missing and identifies duplicate invoices using a SQLite database.
 
 The results are saved in CSV and Excel reports.
+![image alt](https://github.com/chmuzammil3/invoice-automation/blob/c36ff9e4732ba3a203f861022a2a9aa321aea665/invoices-records.png)
+![image alt](https://github.com/chmuzammil3/invoice-automation/blob/c36ff9e4732ba3a203f861022a2a9aa321aea665/summary.png)
 
 ## Features
 
